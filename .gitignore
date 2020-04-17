@@ -1,0 +1,8 @@
+# ca
+ssl/
+
+# vscode
+.vscode/
+# Logs
+logs
+*.log
